@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\Praktikum02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\Praktikum02.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\Praktikum02.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\Praktikum02.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\bin\Debug\net10.0\Praktikum02.exe
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\bin\Debug\net10.0\Praktikum02.deps.json
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\bin\Debug\net10.0\Praktikum02.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\bin\Debug\net10.0\Praktikum02.dll
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\bin\Debug\net10.0\Praktikum02.pdb
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\Praktikum02.dll
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\refint\Praktikum02.dll
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\Praktikum02.pdb
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\Praktikum02.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\DPK-PPLG\SemesterGanjil\Bab-05\Praktikum02\obj\Debug\net10.0\ref\Praktikum02.dll
